@@ -1,0 +1,11 @@
+.nano_title {
+    width:75%;
+    position:relative;
+    float:left;
+}
+.nano_count {
+    width:20%;
+    position:relative;
+    float:right;
+}
+.clear {clear:both;}
